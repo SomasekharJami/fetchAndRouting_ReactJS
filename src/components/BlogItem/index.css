@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+.blogImg {
+  width: 25vw;
+  height: 35vh;
+  margin-right: 20px;
+}
+.authImg {
+  height: 8vh;
+  border-radius: 4vh;
+}
+.linking_list {
+  list-style: none;
+  text-decoration: none;
+}
+.listEl {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #d3d3d3;
+  padding: 3vw;
+  border-radius: 10px;
+  width: 70vw;
+  margin-bottom: 20px;
+}
+.detailP {
+  text-decoration: none;
+  color: #8e8e8e;
+  font-size: 3vh;
+  margin-top: 0;
+}
+.detailH {
+  text-decoration: none;
+  color: black;
+  font-size: 4vh;
+}
+.authP {
+  text-decoration: none;
+  color: #8e8e8e;
+  font-size: 3vh;
+  margin-left: 15px;
+}
+.authorCon {
+  display: flex;
+  align-items: center;
+}

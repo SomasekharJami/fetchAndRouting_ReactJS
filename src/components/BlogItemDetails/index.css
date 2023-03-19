@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.blog-info {
+  width: 70vw;
+}
+.author-pic {
+  height: 7vh;
+  border-radius: 4vh;
+}
+.blog-details-title {
+  font-size: 4vh;
+  text-align: center;
+}
+.blog-image {
+  width: 100%;
+}
+.author-details {
+  display: flex;
+  align-items: center;
+}
+.details-author-name {
+  color: black;
+  font-size: 3vh;
+  margin-left: 15px;
+}
+.blog-content {
+  color: #2f4f4f;
+  font-size: 2.5vh;
+}
